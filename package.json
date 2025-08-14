@@ -1,0 +1,33 @@
+{
+  "name": "ajs-unit-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build step required\"",
+    "lint": "eslint .",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deadman11/ajs-unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deadman11/ajs-unit-test/issues"
+  },
+  "homepage": "https://github.com/Deadman11/ajs-unit-test#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.3",
+    "@babel/preset-env": "^7.28.3",
+    "@eslint/js": "^9.33.0",
+    "eslint": "^9.33.0",
+    "globals": "^16.3.0",
+    "jest": "^30.0.5"
+  },
+  "dependencies": {
+    "core-js": "^3.45.0"
+  }
+}
