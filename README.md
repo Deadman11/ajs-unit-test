@@ -1,0 +1,1 @@
+[![CI Pipeline](https://github.com/Deadman11/ajs-unit-test/actions/workflows/main.yml/badge.svg)](https://github.com/Deadman11/ajs-unit-test/actions/workflows/main.yml)
